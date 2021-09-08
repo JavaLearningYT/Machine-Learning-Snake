@@ -1,4 +1,4 @@
-# Machine-Learning-Snake
+# Machine-Learning-Snake (Created by Austin)
 A project that teaches a computer how to play snake using RL4J
 
 
